@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    height: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+    text-transform: uppercase;
+}
+.nav__link {
+    text-decoration: none;
+    font-size: 20px;
+    color:#000;
+}
+.nav__link:hover {
+    transition: .3s linear;
+    color:darkslateblue;
+}
+.parents {
+    height: 100vh;
+    background-image: url(https://media.istockphoto.com/id/1002496248/photo/city-landscape-on-a-background-of-snow-capped-tian-shan-mountains-in-almaty-kazakhstan.jpg?s=612x612&w=0&k=20&c=ho9CUvzyqmHuREMAbIyF2rduuu2c9OGtRByXURYiCy4=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+}
