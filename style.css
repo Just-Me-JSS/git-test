@@ -28,3 +28,21 @@
     text-align: center;
     font-size: 30px;
 }
+.text {
+    text-decoration: none;
+    color:#000;
+    font-size: 40px;
+    text-transform: capitalize;
+    border: 1px solid #000;
+    background: red;
+    border-radius: 20%;
+}
+.text2 {
+    text-decoration: none;
+    color:#000;
+    font-size: 40px;
+    text-transform: capitalize;
+    border: 1px solid #000;
+    background: red;
+    border-radius: 20%;
+}
